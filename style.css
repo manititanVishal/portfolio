@@ -1,0 +1,20 @@
+.profile{
+    border-radius: 50%;
+    height: 200px;
+}
+.description{
+    
+    text-align: justify;
+    
+    
+    
+}
+.skills-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:2rem;
+}
+.list-group-flush{
+    border-radius: 0;
+}
